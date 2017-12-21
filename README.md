@@ -1,3 +1,4 @@
 # Keras
-This repository contains the keras tutorial implemented the blog
-file name ---- (my--first_NN) -----  demonstartes the implementation of two layer Neural network using keras Sequential model and and an random value dataset . 
+This repository contains code implemented from the official Keras documentation
+IMGAGE_CLASSIFICATION---CNN ------- This folder contains classifictaion implemented using 3layer CNN
+IMAGE_CLASSIFICTAION----VGG16------- Thsi folder contains code implemented from the keras blog 
